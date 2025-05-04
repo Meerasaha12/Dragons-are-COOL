@@ -1,0 +1,28 @@
+body {
+    background: #ffe4b5;
+    font-family: arial;
+    text-align: center;
+    padding: 20px;
+    color: #4b0082;
+  }
+  
+  h1 {
+    font-size: 30px;
+    color: #b22222;
+    margin-bottom: 15px;
+    text-shadow: 1px 1px 1px #000;
+  }
+  
+  p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  img {
+    width: 100%;
+    max-width: 350px;
+    margin: 15px 0;
+    border-radius: 8px;
+    border: 2px solid #b22222;
+    box-shadow: 0 0 5px #000;
+  }
